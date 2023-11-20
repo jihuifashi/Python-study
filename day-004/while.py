@@ -1,12 +1,11 @@
 #!/usr/bin/python
  
 count = 0
-while (count < 9):
+while (count < 8):
    print('The count is:', count)
    count = count + 1
  
 print("Good bye!")
-
 
 count = 0
 while count < 6:
